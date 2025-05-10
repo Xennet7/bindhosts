@@ -1,16 +1,6 @@
 # bindhosts
 
-Systemless hosts for Apatch, KernelSU and Magisk
-
-Fully standalone, self-updating.
-
-## Features
-- WebUI and action button control
-- Adaway coexistence 
-- Systemless hosts via manager mount, bind mount, and OverlayFS
-- Redirect methods: ZN-hostsredirect, hosts_file_redirect, open_redirect
-
-## Supported Root Managers
+asfasfaSFA
 - [APatch](https://github.com/bmax121/APatch) 
 - [KernelSU](https://github.com/tiann/KernelSU)
 - [Magisk](https://github.com/topjohnwu/Magisk)  <sup>([no WebUI](https://github.com/topjohnwu/Magisk/issues/8609#event-15568590949)👀)</sup>
